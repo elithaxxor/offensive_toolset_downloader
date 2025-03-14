@@ -77,14 +77,6 @@ We welcome contributions from the community! Here’s how you can help:
    ```
 5. **Create a Pull Request**
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or feedback, feel free to reach out:
-
-- **GitHub Issues**: [Create an issue](https://github.com/elithaxxor/offensive_toolset_downloader/issues)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
